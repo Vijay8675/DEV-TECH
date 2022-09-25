@@ -1,2 +1,3 @@
-# DEV-TECH
-My first repository on GitHub
+# About
+This is a typical web template for a car service center
+
